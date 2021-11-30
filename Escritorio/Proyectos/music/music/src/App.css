@@ -1,0 +1,7 @@
+#root{
+    background-color: rgb(23, 29, 37);
+}
+td:hover{
+    background-color: rgb(37, 47, 59);
+    cursor: pointer;
+}
